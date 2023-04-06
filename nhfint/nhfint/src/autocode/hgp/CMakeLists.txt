@@ -1,0 +1,54 @@
+add_library(
+    hgp_hrr
+    src/hgp_hrr_0_0.cpp
+    src/hgp_hrr_0_0.cpp
+    src/hgp_hrr_1_0.cpp
+    src/hgp_hrr_1_1.cpp
+    src/hgp_hrr_2_0.cpp
+    src/hgp_hrr_2_1.cpp
+    src/hgp_hrr_2_2.cpp
+    src/hgp_hrr_3_0.cpp
+    src/hgp_hrr_3_1.cpp
+    src/hgp_hrr_3_2.cpp
+    src/hgp_hrr_3_3.cpp
+    src/hgp_hrr_4_0.cpp
+    src/hgp_hrr_4_1.cpp
+    src/hgp_hrr_4_2.cpp
+    src/hgp_hrr_4_3.cpp
+    src/hgp_hrr_4_4.cpp
+    src/hgp_hrr_5_0.cpp
+    src/hgp_hrr_5_1.cpp
+    src/hgp_hrr_5_2.cpp
+    src/hgp_hrr_5_3.cpp
+    src/hgp_hrr_5_4.cpp
+    src/hgp_hrr_5_5.cpp
+    src/hgp_hrr_6_0.cpp
+    src/hgp_hrr_6_1.cpp
+    src/hgp_hrr_6_2.cpp
+    src/hgp_hrr_6_3.cpp
+    src/hgp_hrr_6_4.cpp
+    src/hgp_hrr_6_5.cpp
+    src/hgp_hrr_6_6.cpp
+    src/hgp_hrr_7_0.cpp
+    src/hgp_hrr_7_1.cpp
+    src/hgp_hrr_7_2.cpp
+    src/hgp_hrr_7_3.cpp
+    src/hgp_hrr_7_4.cpp
+    src/hgp_hrr_7_5.cpp
+    src/hgp_hrr_7_6.cpp
+    src/hgp_hrr_7_7.cpp
+    src/hgp_hrr_8_0.cpp
+    src/hgp_hrr_8_1.cpp
+    src/hgp_hrr_8_2.cpp
+    src/hgp_hrr_8_3.cpp
+    src/hgp_hrr_8_4.cpp
+    src/hgp_hrr_8_5.cpp
+    src/hgp_hrr_8_6.cpp
+    src/hgp_hrr_8_7.cpp
+    src/hgp_hrr_8_8.cpp
+)
+
+target_include_directories(
+    hgp_hrr PUBLIC
+    include
+)

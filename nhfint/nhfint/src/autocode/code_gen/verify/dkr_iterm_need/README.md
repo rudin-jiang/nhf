@@ -1,0 +1,1 @@
+In a EriClass, angular momentum of the four basis functions are $n_a$ , $n_b$ , $n_c$ and $n_d$
